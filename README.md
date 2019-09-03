@@ -1,0 +1,2 @@
+# SqueezeNet
+SqueezeNet for ncnn
