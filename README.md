@@ -11,10 +11,9 @@ Training set: ImageNet 2012 <br/>
 Size: 227x227 <br/>
 Prediction time: 85 mSec (RPi 4) <br/>
 
-
 ------------
 
-## Dependencies.<br/>
+## Dependencies. <br/>
 To run the application, you have to:
 - A raspberry Pi 4 with a 32 or 64-bit operating system. It can be the Raspberry 64-bit OS, or Ubuntu 18.04 / 20.04. [Install 64-bit OS](https://qengineering.eu/install-raspberry-64-os.html) <br/>
 - The Tencent ncnn framework installed. [Install ncnn](https://qengineering.eu/install-ncnn-on-raspberry-pi-4.html) <br/>
@@ -39,6 +38,7 @@ shufflenet.bin <br/>
 shufflenet.param <br/>
 ShuffleNet.cpb <br/>
 shufflenetv2.cpp <br/>
+
 ------------
 
 ## Running the app.
